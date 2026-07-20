@@ -1,0 +1,131 @@
+/*scrolling smooth */
+html {
+        scroll-behavior: smooth;
+}
+
+
+/*Body Styling */
+body {
+    background-repeat: no-repeat;
+    background-attachment: ;
+    background-color: azure;
+}
+
+/*STYLING HEADER & NAVIGATION SECTION */
+nav ul{
+color:purple
+font-family:
+font-size:
+font-weight:bold;
+background:linear-gradient(to top,black,white,black,grey)
+padding:
+}
+nav ul {
+display: flex;
+justify-content: ;
+gap: ;
+list-style: none;
+
+}
+
+
+a:hover{
+color: ;
+
+}
+a:active{
+color: #000;
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+p {
+    color: #000;
+font-family: ;
+font-size: ;
+max-width: ;
+text-align: ;
+font-style: ;
+}
+
+
+.img-display
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+/* COLLABORATION */
+collaboration {
+text-align: ;
+font-size: ;
+font-style: ;
+font-weight: ;
+
+}
+
+
+
+/* FoOTER STYLING */
+footer p {
+color: beige;
+font-family: ;
+font-size: ;
+font-weight: ;
+background-color: ;
+font-style: ;
+text-align: ;
+}
+
+
+
+
+
+
+
